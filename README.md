@@ -125,5 +125,5 @@ Les cartes peuvent être :
 
 ## 👤 Auteur
 
-NOM Prénom : CARVALHO SANTOS João 
-Profil Github : JoaoSantos129
+- NOM Prénom : CARVALHO SANTOS João 
+- Profil Github : JoaoSantos129
